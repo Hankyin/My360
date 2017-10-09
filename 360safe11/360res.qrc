@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>res/360Logo/safe.ico</file>
+        <file>res/360Logo/360safe.png</file>
+        <file>res/theme/Frame.jpg</file>
+        <file>res/titlebar/sysbt_close.png</file>
+        <file>res/titlebar/sysbt_menu.png</file>
+        <file>res/titlebar/sysbt_min.png</file>
+        <file>res/titlebar/sysbt_threme.png</file>
+        <file>res/titlebar/sysbt_update.png</file>
+        <file>res/360Logo/360logo.png</file>
+        <file>res/moduleselector/bt_module.png</file>
+        <file>res/moduleselector/mask.png</file>
+    </qresource>
+</RCC>
